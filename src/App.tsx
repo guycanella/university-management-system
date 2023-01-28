@@ -1,11 +1,15 @@
+import { Outlet } from 'react-router-dom'
+
 import './global.css'
 
 
 function App () {
   return (
-    <div className='App'>
-      <h1 className="text-red-600 text-5xl">Hello world</h1>
-    </div>
+    <>
+      <h1>Isso não muda</h1>
+      <Outlet />
+      <h2>Isso também muda</h2>
+    </>
   )
 }
 
