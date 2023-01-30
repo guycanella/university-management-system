@@ -1,17 +1,17 @@
 import { Outlet } from 'react-router-dom'
+
 import { Navbar } from './components/Navbar'
 
 import './global.css'
 
-
-function App () {
+function App() {
   return (
-    <>
-      <h1>Isso não muda</h1>
+    <main className="flex bg-[#F7F7F7]">
       <Navbar />
-      <Outlet />
-      <h2>Isso também muda</h2>
-    </>
+      <section className="outlet w-full">
+        <Outlet />
+      </section>
+    </main>
   )
 }
 
