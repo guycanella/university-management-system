@@ -1,0 +1,1659 @@
+{
+  "departments": [
+    {
+      "departmentId": "DUSP0034",
+      "departmentLabel": "ICMC",
+      "departmentName": "Instituto de Ciências Matemáticas e Computação",
+      "courses": [
+        {
+          "courseId": "ICMC0012",
+          "courseName": "Bacharelado em Ciências da Computação",
+          "duration": 4,
+          "description": [
+            "O Bacharelado em Ciências de Computação faz parte da área de conhecimento de ciências exatas. O curso visa a formação conceitual e teórica sólidas nas diferentes áreas da Ciências de Computação, aliada à formação prática, através do desenvolvimento de projetos e da utilização de diferentes tipos de ferramentas de software. A capacidade de adaptação à evolução da computação, tanto em termos teóricos/metodológicos como em termos tecnológicos, é um aspecto essencial que o curso considera no oferecimento das disciplinas e na preparação do profissional dessa área.",
+            "Basicamente, matemática, linguagens de programação e sistemas de hardware e software são as áreas que irão acompanhá-lo durante os cinco anos de graduação. Nesse período, você verá também disciplinas como banco de dados, redes, robótica, computação gráfica, multimídia e engenharia de software. No último ano do curso, você deve realizar dois trabalhos de conclusão de curso, que podem ser em empresa (caracterizando estágio supervisionado) ou em universidade ou centro de pesquisa (caracterizando projeto de graduação). Você também pode realizar ambas as modalidades no exterior, em período de intercâmbio. Você poderá ainda empreender, realizando estágio em empresa própria.",
+            "O curso prepara você com amplos conhecimentos e base necessários para se engajar e orientar-se com facilidade nos diferentes caminhos de aplicação de Computação, dentre os quais se destacam: Empresas públicas e privadas da área de computação, atendendo aos diversos tipos de atividades reconhecidamente da área, tais como: analista de software e de sistemas, engenheiro de software, desenvolvedor de sistemas, consultorias em banco de dados, em implantação de sistemas, projetista de software, programador, etc.;Empreendedorismo na área de computação, comandando iniciativas de negócios em computação, criando empresas ou mesmo projetando inovações no mercado; Carreira acadêmica em computação, atuando como pesquisador ou docente universitário."
+          ],
+          "disciplines": [
+            {
+              "period": 1,
+              "disciplineIds": [
+                "SCC0200",
+                "SCC0221",
+                "SCC0222",
+                "SMA0300",
+                "SMA0353",
+                "SSC0104",
+                "SSC0109",
+                "SSC0117",
+                "SSC0180"
+              ]
+            },
+            {
+              "period": 2,
+              "disciplineIds": [
+                "PHH0105",
+                "SCC0201",
+                "SCC0202",
+                "SMA0180",
+                "SMA0354",
+                "SSC0108",
+                "SSC0118"
+              ]
+            },
+            {
+              "period": 3,
+              "disciplineIds": [
+                "PHH0109",
+                "SCC0215",
+                "SCC0216",
+                "SMA0355",
+                "SSC0103",
+                "SSC0902",
+                "SSC0960"
+              ]
+            },
+            {
+              "period": 4,
+              "disciplineIds": [
+                "SCC0218",
+                "SMA0356",
+                "SME0123",
+                "SME0142",
+                "SSC0124",
+                "SSC0140"
+              ]
+            },
+            {
+              "period": 5,
+              "disciplineIds": [
+                "SCC0219",
+                "SCC0240",
+                "SME0104",
+                "SME0121",
+                "SSC0130",
+                "SSC0142"
+              ]
+            },
+            {
+              "period": 6,
+              "disciplineIds": [
+                "SCC0205",
+                "SCC0207",
+                "SCC0230",
+                "SME0110",
+                "SSC0903"
+              ]
+            },
+            {
+              "period": 7,
+              "disciplineIds": [
+                "SCC0217",
+                "SCC0250",
+                "SSC0120",
+                "SSC0900",
+                "SSC0904"
+              ]
+            },
+            {
+              "period": 8,
+              "disciplineIds": ["SCC0291"]
+            }
+          ]
+        },
+        {
+          "courseId": "ICMC0013",
+          "courseName": "Bacharelado em Analista de Dados",
+          "duration": 4
+        },
+        {
+          "courseId": "ICMC0014",
+          "courseName": "Bacharelado em Engenharia de Computação",
+          "duration": 5
+        }
+      ]
+    }
+  ],
+  "disciplines": [
+    {
+      "disciplineId": "SCC0200",
+      "disciplineName": "Informação Profissional e Tutoria Acadêmica em Ciências da Computação",
+      "credits": 2,
+      "creditsInHours": 30,
+      "goals": "Ambientar o estudante com o curso de Bacharelado em Ciências da Computação, proporcionando uma visão global dos conteúdos do currículo e das várias áreas da Computação. Familiarizar o estudante com a rotina acadêmica, introduzindo e discutindo as diversas questões relacionadas, visando acompanhar o rendimento dos alunos, orientá-los sobre o andamento do curso e prover orientação sobre atividades complementares e sobre a carreira em computação, aumentando o aproveitamento dos alunos e diminuindo evasão e retenção no curso.",
+      "description": "Disciplina de caráter informativo, oferecendo uma visão geral da Computação, abordando-se, na forma de palestras e seminários, uma introdução a suas várias áreas de atuação (como banco de dados, engenharia de software, sistemas operacionais, inteligência artificial, computação gráfica, redes de computadores e web, dentre outras), seu desenvolvimento, aplicações e consequências tecnológicas, sociais e econômicas, assim como seu impacto no mercado de trabalho e na academia. Realização de atividades de tutoria acadêmica, com discussão sobre demandas da nova rotina acadêmica, planejamento de estudos, rendimento acadêmico, atividades extracurriculares e oportunidades de formação oferecidas pela instituição, orientações sobre a carreira em Computação, e comportamento ético e cidadão no ambiente universitário, dentre outros assuntos de interesse dos alunos.",
+      "bibliography": "Brookshear, J.G. (2013). Ciência da Computação - Uma Visão Abrangente. Bookman.11ª edição. "
+    },
+    {
+      "disciplineId": "SCC0221",
+      "disciplineName": "Introdução à Ciência de Computação I",
+      "credits": 4,
+      "creditsInHours": 90,
+      "goals": "Apresentar os conceitos básicos para o desenvolvimento de programas, utilizando uma linguagem de programação como apoio.",
+      "description": "Conceitos básicos sobre computadores: hardware, software, sistema operacional, compiladores, representação interna de dados e linguagem de programação. Resolução de problemas e desenvolvimento de algoritmos: análise e solução de problemas, representação e documentação. Estruturas de programas: decisão e repetição. Tipos de dados simples. Modularização de programas: procedimentos, funções e passagem de parâmetros. Tipos de dados compostos: vetores, matrizes, cadeias de caracteres, registros, conjuntos e estruturas dinâmicas (ponteiros). Arquivos. Depuração de programas. Programação em linguagem estruturada.",
+      "bibliography": "ASCENCIO, A. F. G.; CAMPOS, E. A. V. – Fundamentos da Programação de Computadores – Algoritmos, Pascal e C/C++, Prentice Hall, 2003. (2002, 2005, 2008)."
+    },
+    {
+      "disciplineId": "SCC0222",
+      "disciplineName": "Laboratório de Introdução à Ciência de Computação I",
+      "credits": 2,
+      "creditsInHours": 90,
+      "goals": "Implementar em laboratório as técnicas de programação apresentadas em Introdução à Ciência da Computação I, utilizando uma linguagem de programação estruturada.",
+      "description": "Resolução de problemas e desenvolvimento de programas: análise e solução de problemas, representação e documentação. Estruturas de programas: decisão e repetição. Tipos de dados simples. Modularização de programas: procedimentos, funções e passagem de parâmetros. Tipos de dados compostos: vetores, matrizes, cadeias de caracteres, registros, conjuntos e estruturas dinâmicas (ponteiros). Arquivos. Depuração de programas. Programação em linguagem estruturada.",
+      "bibliography": "ASCENCIO, A. F. G.; CAMPOS, E. A. V. – Fundamentos da Programação de Computadores – Algoritmos, Pascal e C/C++, Prentice Hall, 2003."
+    },
+    {
+      "disciplineId": "SMA0300",
+      "disciplineName": "Geometria Analítica",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Visa familiarizar os alunos com a geometria analítica no plano e no espaço, com ênfase nos seus aspectos geométricos e suas traduções em coordenadas cartesianas",
+      "description": "Coordenadas cartesianas.  Vetores. Dependência linear. Bases. Produto escalar. Produto vetorial. Translação e rotação. Retas e planos. Distância e ângulo. Cônicas. Equações reduzidas das superfícies quádricas. Coordenadas polares, cilíndricas e esféricas.",
+      "bibliography": "BOULOS, P., CAMARGO, I., Geometria analítica - um tratamento vetorial, Rio de Janeiro: McGraw-Hill,  1987."
+    },
+    {
+      "disciplineId": "SMA0353",
+      "disciplineName": "Cálculo I",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Fazer com que os alunos familiarizem-se com os conceitos de limite, continuidade, diferenciabilidade e primitivas de funções de uma variável.",
+      "description": "O conjunto dos números reais. Funções Reais de uma variável. Composição de funções. Limites. Continuidade. Diferenciabilidade. Derivação de uma composição.  Taxas relacionadas. Máximos e mínimos. Gráficos. Diferencial. Fórmula de Taylor. Primitivas.",
+      "bibliography": "GUIDORIZZI, H.L.  Um Curso de Cálculo, 5ª Ed., V. 1,  Rio de Janeiro: Livros Técnicos e Científicos Editora, (2001)."
+    },
+    {
+      "disciplineId": "SSC0104",
+      "disciplineName": "Evolução Histórica da Computação e Aplicações",
+      "credits": 2,
+      "creditsInHours": 60,
+      "goals": "Apresentar ao aluno um panorama da evolução da computação, identificando marcos históricos, personagens relevantes e suas contribuições. Motivar o aluno ingressante por meio da apresentação de desenvolvimentos e aplicações importantes da computação em diferentes áreas, relacionando-os aos fundamentos matemáticos a serem estudados ao longo do curso.",
+      "description": "Panorama histórico da Informática e Computação. O papel dos instrumentos de cálculo e sua evolução. Sistemas de hardware e software, personagens, organizações e empresas que contribuíram significativamente para o desenvolvimento da Computação como ciência e tecnologia. Sistemas de hardware: marcos históricos e evolução. Desenvolvimento de sistemas de software em diferentes disciplinas da Informática: marcos históricos e evolução. Exemplos de aplicação.",
+      "bibliography": "FONSECA FILHO, C. História da Computação, Teoria e Tecnologia. Editora LTR, 2000."
+    },
+    {
+      "disciplineId": "SSC0109",
+      "disciplineName": "Prática em Lógica Digital",
+      "credits": 2,
+      "creditsInHours": 60,
+      "goals": "Introduzir o aluno na prática de conceitos básicos de eletrônica e lógica digital, e técnicas de projeto de subsistemas digitais com ênfase em circuitos combinacionais.",
+      "description": "Prática em circuitos combinacionais, funções lógicas, circuitos lógicos, simplificação algébrica, formas normais disjuntivas e conjuntivas, mapas de Karnaugh, decodificadores, representação numérica, circuitos somadores, subtratores e multiplicadores, multiplex e demultiplex.",
+      "bibliography": "BROWN, S.; VRANESIC, Z. Fundamentals of Digital Logic with VHDL Design, McGraw Hill, 2005."
+    },
+    {
+      "disciplineId": "SSC0117",
+      "disciplineName": "Introdução à Lógica Digital",
+      "credits": 2,
+      "creditsInHours": 60,
+      "goals": "Introduzir ao aluno conceitos básicos de eletrônica elógica Digital, técnicas de projeto de subsistemas digitais com ênfase em circuitos combinacionais.",
+      "description": "Circuitos combinacionais, funções lógicas, circuitoslógicos, simplificação algébrica, formas normais disjuntivas e conjuntivas, mapas de Karnaugh, decodificadores, representação numérica, circuitos somadores, subtratores e multiplicadores, multiplex e demultiplex.",
+      "bibliography": "BROWN, S.; VRANESIC, Z. Fundamentals of Digital Logic with VHDL Design, McGraw Hill, 2005."
+    },
+    {
+      "disciplineId": "SSC0180",
+      "disciplineName": "Eletrônica para Computação",
+      "credits": 2,
+      "creditsInHours": 90,
+      "goals": "Familiarizar os alunos com o funcionamento eletrônico das portas e lógicas com conceitos relacionados a dispositivos eletrônicos.",
+      "description": "Conceitos básicos de circuitos eletrônicos, com ênfase na utilização de componentes eletrônicos básicos, tais como resistores, capacitores, diodos e transistores, no projeto de circuitos e portas lógicas digitais. Uso de simuladores de circuitos elétricos para visualização de formas de onda. Estudo do efeito de fontes de tensão de corrente contínua em circuitos elétricos. Aplicações de transistores como chaves binárias no projeto de funções lógicas, como portas NOT, AND, OR e XOR. Efeitos transitórios na propagação de sinais elétricos em circuitos de lógica digital, como tempos de subida e descida, efeitos fan-out e suas formas de ondas. Circuitos NMOS e CMOS: caracterização e efeitos de variação de voltagem e frequência.",
+      "bibliography": "ANNIBAL, HETTEM JR, Fundamentos de Informática – Eletrônica para Computação."
+    },
+    {
+      "disciplineId": "PHH0105",
+      "disciplineName": "Física Básica I",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Ensinar aos estudantes os conceitos básicos da Mecânica Newtoniana e os métodos da Física como ciência. Capacitá-los a formular e resolver problemas referentes ao movimento de corpos e sistemas de corpos sob ação de forças.",
+      "description": "1. Medidas e unidades; 2. Movimento em uma, duas e três dimensões; 3. Leis de Newton e suas aplicações; 4. Trabalho e energia; 5. Conservação de Energia; 6. Sistemas de Partículas e Conservação de Momento; 7. Rotação e conservação do momento angular; 8. Fluidos; 9. Oscilações e ondas: Oscilações, movimento ondulatório."
+    },
+    {
+      "disciplineId": "SCC0201",
+      "disciplineName": "Introdução à Ciência de Computação II",
+      "credits": 4,
+      "creditsInHours": 120,
+      "goals": "Apresentação de conceitos avançados que levem o aluno a uma maturidade em programação estruturada, com conhecimento de uma linguagem de programação com recursos avançados. Aprendizado de técnicas para construção de algoritmos e para análise da complexidade de algoritmos. Aprendizado de algoritmos clássicos de ordenação e busca em memória interna. Prática de Programação.",
+      "description": "Análise de algoritmos: conceitos básicos, critérios de complexidade de tempo e espaço, notação assintótica, análise de pior caso, melhor caso e caso médio, técnicas de contagem de operações e análise de recorrências, prática e discussão com problemas computacionais relevantes. Algoritmos de ordenação interna simples e avançados: conceitos básicos, métodos de ordenação bubblesort, quicksort, inserção, shellsort, seleção, heapsort, mergesort, contagem de menores, contagem de tipos e radixsort, análise dos algoritmos de ordenação, prática e discussão com problemas computacionais relevantes. Algoritmos de busca interna: conceitos básicos, métodos de busca binária e por interpolação, análise dos algoritmos de busca anteriores e considerações sobre busca em árvores, prática e discussão com problemas computacionais relevantes. Hashing interno: conceitos básicos, tipos de hashing, funções hash, tratamento de colisões, análise dos algoritmos de busca, inserção e remoção com base em hashing. ",
+      "bibliography": "CORMEN, T.H. et al.: Algoritmos: Teoria e Prática. Elsevier e Campus (tradução). ISBN 853520926-3."
+    },
+    {
+      "disciplineId": "SCC0202",
+      "disciplineName": "Algoritmos e Estruturas de Dados I",
+      "credits": 4,
+      "creditsInHours": 120,
+      "goals": "Familiarizar os estudantes com as várias estruturas da informação, buscando habilitá-los a contar com esses recursos no desenvolvimento de outras atividades de ciências de computação.",
+      "description": "Tipos abstratos de dados. Listas lineares: seqüenciais, simplesmente e duplamente encadeadas, estáticas e dinâmicas, circulares, com nó-cabeça. Operações básicas sobre listas lineares e análise dos algoritmos. Pilhas, filas, filas de prioridade, operações básicas sobre pilhas e filas e análise dos algoritmos. Aplicações de listas lineares, pilhas e filas em problemas computacionais relevantes. Matrizes esparsas. Listas generalizadas e aplicações. Listas não lineares: árvores, árvores binárias, operações básicas sobre árvores e análise dos algoritmos. Árvores binárias de busca, árvores binárias de busca balanceadas, árvores AVL, operações básicas e análise dos algoritmos. Considerações sobre heaps aplicados em filas de prioridades. Aplicações de listas não lineares em problemas computacionais relevantes e análise dos algoritmos.",
+      "bibliography": "CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L.; STEIN, C. Algoritmos: Teoria e Prática. Editora Campus.2002."
+    },
+    {
+      "disciplineId": "SMA0180",
+      "disciplineName": "Matemática Discreta I",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Dar aos alunos os conhecimentos básicos de Contagem e Combinatória, Relações, Teoria dos Números no contexto de Criptografia, Inferência e Prova, e Indução Matemática, habilitando-os a resolverem problemas da área de Ciências de Computação.",
+      "description": "Contagem e combinatória: princípios de adição, princípios do produto, listas, fatorial, arranjo, permutações, combinações, com e sem repetição de elementos, subconjuntos e triângulo de Pascal; Relações: conceito, funções como relações, propriedades, equivalências, ordens parcial e total: e o problema da Arrumação da Estante; Teoria dos Números e Criptografia: chave secreta, sistemas de chave pública, criptografia usando aritmética de módulo n, máximo divisor comum,  Teorema da Divisão de Euclides, algoritmo de Euclides, exponencial módulo n, e criptosistema RSA; Inferência e prova: regras de inferência, prova direta, prova por indução, prova por contradição, prova por construção e prova por absurdo;  Indução Matemática: princípios, indução forte, visão recursiva, indução estrutural, recorrências e o Teorema Mestre.",
+      "bibliography": "STEIN, C; DRYSDALE, R; BOGART K. Matemática Discreta - para Ciência da Computação. 1ª edição, Pearson, 2015."
+    },
+    {
+      "disciplineId": "SMA0354",
+      "disciplineName": "Cálculo II",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Familiarizar os alunos com os resultados fundamentais relativos a: integração definida, técnicas de integração, diferenciabilidade de funções de várias variáveis e extremos de funções de várias variáveis.",
+      "description": "A integral definida. Técnicas de integração. Aplicações da integral. Integrais impróprias. Curvas. Funções de várias variáveis. Limites. Derivadas parciais.  A regra da cadeia e aplicações. Gradiente e derivada direcional. Plano tangente e reta normal. Polinômio de Taylor. Máximos e mínimos para funções de várias variáveis. Multiplicadores de Lagrange.",
+      "bibliography": "GUIDORIZZI, H.L.  Um Curso de Cálculo, 5ª Ed., V. 1,  Rio de Janeiro: Livros Técnicos e Científicos Editora, (2001)."
+    },
+    {
+      "disciplineId": "SSC0108",
+      "disciplineName": "Prática em Sistemas Digitais",
+      "credits": 3,
+      "creditsInHours": 60,
+      "goals": "Estender o conhecimento do aluno com práticas em técnicas digitais, com ênfase no projeto de circuitos sequenciais.",
+      "description": "Prática em circuitos sequenciais, flip-flops, registradores, conversores série/paralelo e paralelo/série, contadores síncronos e assíncronos, memória. Máquinas de estado finito-FSM. Técnicas de otimização de máquinas de estado finito. Projeto de circuitos lógicos sequenciais para a execução de instruções binárias.",
+      "bibliography": "BROWN, S.; VRANESIC, Z. Fundamentals of Digital Logic with VHDL Design, McGraw Hill, 2005."
+    },
+    {
+      "disciplineId": "SSC0118",
+      "disciplineName": "Sistemas Digitais",
+      "credits": 3,
+      "creditsInHours": 60,
+      "goals": "Estender o conhecimento do aluno em técnicas digitais, com ênfase no projeto de circuitos sequenciais.",
+      "description": "Circuitos seqüenciais, flip-flops, registradores, conversores série/pararelo e paralelo/série, contadores síncronos e assíncronos, memória. Máquinas de estado finito-FSM. Técnicas de otimização de máquinas de estado finito. Projeto de circuitos lógicos seqüenciais para a execução de instruções binárias.",
+      "bibliography": "BROWN, S.; VRANESIC, Z. Fundamentals of Digital Logic with VHDL Design, McGraw Hill, 2005."
+    },
+    {
+      "disciplineId": "PHH0109",
+      "disciplineName": "Laboratório de Física Geral I",
+      "credits": 2,
+      "creditsInHours": 30,
+      "goals": "Familiarizar o aluno com a utilização de instrumentos de medidas mecânicas, organização de tabelas e gráficos com escala lineares e logarítmicas obtidos em Física I. Introduzir os fundamentos básicos da teoria de Erros e do Método dos Mínimos Quadrados. Utilizar os tópicos anteriores para a realização de práticas e confecção de relatórios sobre experimentos básicos de mecânica.",
+      "description": "1.Instrumentos de medidas 1.1 Utilização de paquímetro, micrômetro e balança nas medidas de comprimento (diâmetro, espessura, profundidade, etc) e massa.; 1.2 Estimativa de erro nas medidas; 1.3 Propagação de erros; 1.4 Algarismos significativos; 2.Construção de Tabelas e Gráficos; 2.1 Construção de Tabelas; 2.2 Construção de gráficos; 2.3 Escalas especiais para a construção de gráficos; 2.4 Determinação dos coeficientes angular e linear de uma reta obtida a partir de dados experimentais; 2.5 Lei de Hooke; 3. Introdução ao método dos mínimos quadrados; 3.1 Ajuste de curvas a dados experimentais através do método dos mínimos quadrados; 3.2 Cinemática; 3.3 Movimento Retilíneo Uniforme; 3.4 Movimento Retilíneo uniformemente variado; 4. Estática; 4.1 Equilíbrio de um ponto Material; 4.2 Tensão Máxima suportada por um fio; 4.3 Atrito; 5. Conservação de Energia; 5.1 Conceito de Conservação da Energia Mecânica; 5.2 Sistema Massa mola; 6. Choques Unidimensionais; 6.1 Utilização de um trilho de ar; 6.2 Conservação da quantidade de movimento; 6.3 Conservação da Energia Cinética; 6.4 Coeficiente de restituição; 6.5 Classificação dos choques.",
+      "bibliography": "Apostilas do Laboratório de Ensino de Física"
+    },
+    {
+      "disciplineId": "SCC0215",
+      "disciplineName": "Organização de Arquivos",
+      "credits": 5,
+      "creditsInHours": 105,
+      "goals": "Fundamentos de arquivos e armazenamento secundário. Indexação e ordenação de arquivos grandes. Árvores B e suas variações.",
+      "description": "Fundamentos de arquivos e armazenamento secundário. Organização de arquivos. Campos e registros de tamanho fixo e variável. Indexação de arquivos. Estruturas de dados e algoritmos para indexação primária, secundária e com múltiplas chaves. Manutenção de arquivos indexados dinâmicos. Processamento cosequencial. Ordenação de arquivos grandes. Árvores B e suas variações. Hashing externo.",
+      "bibliography": "FOLK, M.; ZOELLICK, B., File Structures, Second Edition. Addison-Wesley, 1992."
+    },
+    {
+      "disciplineId": "SCC0216",
+      "disciplineName": "Modelagem Computacional em Grafos",
+      "credits": 2,
+      "creditsInHours": 60,
+      "goals": "Ensinar ao aluno a importância de grafos em computação, mostrando seus conceitos fundamentais, principais estruturas de dados e aplicações resolvidas por meio de grafos.",
+      "description": "Grafos - conceitos fundamentais, grafos dirigidos e não dirigidos, grafos ponderados, caminhos Eulerianos e Hamiltonianos, ciclos, operações básicas sobre grafos, busca em largura e em profundidade, isomorfismo. Representação de grafos via matriz de adjacência e listas de adjacências, operações e análise de algoritmos. Caminhos mínimos, detecção de ciclos, componentes conexos e fortemente conexos, pontes e vértices de articulação, ordenação topológica. Árvores geradoras mínimas, caminhos mínimos, fluxo em rede. Noções de redes complexas e aplicações",
+      "bibliography": "CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L.; STEIN, C. Algoritmos: Teoria e Prática. Editora Campus. 2002."
+    },
+    {
+      "disciplineId": "SMA0355",
+      "disciplineName": "Cálculo III",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Familiarizar os alunos com os resultados fundamentais relativos a:  diferenciabilidade de  funções de várias variáveis, integrais múltiplas, integrais de linha, integrais de superfície.",
+      "description": "Integrais duplas. Transformação de coordenadas. Integrais triplas.  Cálculo vetorial. Integrais de linha. Teorema de Green.  Integrais de superfícies. O Teorema de Gauss. O Teorema de Stokes.",
+      "bibliography": "GUIDORIZZI, H.L.  Um Curso de Cálculo, 5ª Ed., V. 2 e 3,  Rio de Janeiro: Livros Técnicos e Científicos Editora, (2002)."
+    },
+    {
+      "disciplineId": "SSC0103",
+      "disciplineName": "Programação Orientada a Objetos",
+      "credits": 2,
+      "creditsInHours": 60,
+      "goals": "Introduzir os conceitos de programação orientada a objetos e metodologia de desenvolvimento de software segundo esse paradigma.",
+      "description": "Projeto orientado a objetos. Encapsulamento e ocultação de informação. Separação de comportamento e implementação. Classes e subclasses. Herança. Overriding. Dynamic dispatch. Polimorfismo. Relação entre Polimorfismo (de subtipo) e Herança. Hierarquias de classes.; Objetivos de aprendizado: 1. Justificar a filosofia do projeto orientado a objetos e os conceitos de encapsulamento, abstração, herança e polimorfismo.; 2. Projetar, implementar, testar e depurar programas simples em uma linguagem de programação orientada a objetos.; 3. Descrever como o mecanismo de classes suporta encapsulamento e ocultação de informação.; 4. Projetar, implementar e testar a implementação de relações “é-um” (is-a) entre objetos usando uma hierarquia de classes e herança.; 5. Comparar e contrastar as noções de métodos de overloading e overriding em uma linguagem orientada a objetos.",
+      "bibliography": "DEITEL, H. M.; DEITEL, P.J.: Java - Como Programar, Prentice-Hall, 8ª Edição, 2010, ISBN 9788576055631."
+    },
+    {
+      "disciplineId": "SSC0902",
+      "disciplineName": "Organização e Arquitetura de Computadores",
+      "credits": 4,
+      "creditsInHours": 90,
+      "goals": "Abordar conhecimentos atuais sobre a organização e arquitetura de computadores digitais. Estudar aspectos funcionais, estruturais e de desempenho de processadores, memórias, e do subsistema de entrada/saída e suas redes de interconexão. Compreender técnicas de otimização e de paralelização do processador, abaixo do nível de arquitetura do conjunto de instruções. Aprender a codificação de programas em linguagem de montagem.",
+      "description": "Noções de Linguagens Montadoras (assembly): aspectos importantes em projetos de linguagens de máquina e de montagem; codificação de programas em assembly; Organização de processadores, elementos básicos e seus conceitos fundamentais; Implementação do Ciclo de Instrução: aspectos estruturais, funcionais e de desempenho do nível de microarquitetura; arquitetura RISC; Unidade de controle hardwired e microprogramada: fundamentos e desenvolvimento.; Paralelismo no nível de microarquitetura: pipeline, arquiteturas superescalares e multithreading; Subsistemas de memória envolvendo cache e memória principal: aspectos estruturais, funcionais e de desempenho.; Entrada e Saída (E/S): organização, técnicas e evolução do hardware para a E/S; Sistemas de interconexão atuais: conceitos gerais, estudos de casos. Barramento.",
+      "bibliography": "PATTERSON, D. A., HENNESSY, J.L. Computer Organization and Desing, Fifth Edition: The Hardware/Software Interface. The Morgan Kaufman Series in Computer Architecture and Desing. Octover 10, 2013 /ISBN-10: 0124077269 / ISBN-13: 978-0124077263;"
+    },
+    {
+      "disciplineId": "SSC0960",
+      "disciplineName": "Programação Funcional",
+      "credits": 2,
+      "creditsInHours": 60,
+      "goals": "Introduzir os conceitos básicos de programação funcional aos alunos de graduação. Desenvolver as habilidades necessárias para que o futuro desenvolvedor de tais programas possa criar soluções adequadas, com alto desempenho e qualidade.",
+      "description": "Histórico, conceitos básicos e situação atual do paradigma funcional: introdução ao paradigma funcional, compreendendo funções e expressões lambda, funções de ordem superior, e demais conceitos funcionais aplicados em linguagens funcionais modernas. Desenvolvimento de  programas em linguagens funcionais modernas. Exemplos de programas em linguagens que incorporam aspectos funcionais. Tópicos avançados em linguagens funcionais: aplicação de linguagens funcionais na solução de problemas.",
+      "bibliography": "Ford, Neal. Functional Thinking: Paradigm Over Syntax. O’Reilly Media, 2014."
+    },
+    {
+      "disciplineId": "SCC0218",
+      "disciplineName": "Algoritmos Avançados e Aplicações",
+      "credits": 4,
+      "creditsInHours": 90,
+      "goals": "Permitir o contato do aluno com problemas clássicos e novos de computação que envolvam a análise de soluções variadas e os mais diversos paradigmas de programação.",
+      "description": "Apresentação dos paradigmas de força-bruta, dividir e conquistar, transformar e conquistar, reduzir e conquistar, programação dinâmica e  backtracking.  Solução de problemas com árvores e grafos, e manipulação de strings.",
+      "bibliography": "CORMEN, T.H. et al Introduction to Algorithms, MIT Press, Segunda Edição, 2011."
+    },
+    {
+      "disciplineId": "SMA0356",
+      "disciplineName": "Cálculo IV",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Familiarizar os alunos com os resultados fundamentais relativos a: sequências e séries numéricas e de funções, série de Fourier e aplicações.",
+      "description": "Sequências numéricas. Séries numéricas. Séries de Potências, Séries de Fourier. Aplicação de Sequências e Séries na resolução de equações diferenciais.",
+      "bibliography": "BOYCE, E.W., DIPRIMA, R.C. Equações diferenciais elementares e problemas de valores de contorno, 7 ed. Rio de Janeiro: LTC, 2002."
+    },
+    {
+      "disciplineId": "SME0123",
+      "disciplineName": "Estatística",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Ensinamento de idéias básicas da Estatística, seus alcances e limitações. Estabelecer uma linguagem comum entre o Engenheiro e o Estatístico. Exemplificar através das técnicas mais comuns de Estatística.",
+      "description": "Análise Exploratória de Dados (Estatística Descritiva). O espaço probabilístico. Modelos probabilísticos. Dependência e independência de eventos. Eventos condicionados. Variáveis aleatórias unidimensionais e n-dimensionais. Distribuições de probabilidade. Funções de variáveis aleatórias. Esperança matemática. Momentos. Covariância e correlação. Teorema do limite central. Estimação de parâmetros. Testes de hipóteses. Testes de aderência. Regressão linear.",
+      "bibliography": "MAGALHÃES, M.N.; Lima, A.C.P. Noções de Probabilidade e Estatística - 6a. edição - EDUSP, 2004."
+    },
+    {
+      "disciplineId": "SME0142",
+      "disciplineName": "Álgebra Linear e Aplicações",
+      "credits": 5,
+      "creditsInHours": 90,
+      "goals": "O curso tem como objetivo introduzir conceitos de álgebra linear e suas aplicações, visando principalmente oferecer os fundamentos necessárias para as demais disciplinas do curso.",
+      "description": "Conceitos Básicos de Geometria Analítica: Coordenadas cartesianas, Vetores, Produto escalar, Produto vetorial. Retas e planos. Cônicas. Equações reduzidas das superfícies quádricas. (Conteúdo ministrado em, no máximo, 4 aulas). Fundamentos de Álgebra Linear: Espaços vetoriais, dependência linear, base e dimensão, subespaços, soma direta. Transformações lineares, núcleo e imagem, matriz de uma transformação linear. Posto de uma transformação linear. Ortogonalidade e operadores ortogonais, projeções em subespaços, mínimos quadrados e regressão linear. Autovalores e autovetores, subespaços invariantes, teorema espectral, formas quadráticas e coeficiente de Rayleigh. Decomposição em valores singulares (SVD) e aproximação de posto reduzido. Aplicações: Análise de componentes principais (PCA) e redução de dimensionalidade.",
+      "bibliography": "BOULOS, P., CAMARGO, I., Geometria analítica - um tratamento vetorial, Rio de Janeiro: McGraw-Hill, 1987."
+    },
+    {
+      "disciplineId": "SSC0124",
+      "disciplineName": "Análise e Projeto Orientados a Objetos",
+      "credits": 3,
+      "creditsInHours": 60,
+      "goals": "Permitir ao aluno realizar a análise e projeto orientados a objetos de sistemas de software, seguindo o processo unificado.",
+      "description": "Visão geral dos métodos para análise e projeto orientados a objetos, em particular o Processo Unificado. Como modelar com objetos usando a notação UML: o modelo conceitual; o modelo comportamental: diagrama de sequência, operações, contratos; o modelo de interação: casos de usos, colaboração entre objetos e diagramas de comunicação. Do projeto para a codificação. Padrões para atribuição de responsabilidades. Ferramentas de apoio.",
+      "bibliography": "LARMAN, C. Utilizando UML e Padrões: Uma Ferramenta à Análise e ao Projeto Orientados a Objetos e ao Process Unificado. 3ª edição, Bookman, Porto Alegre, 2007"
+    },
+    {
+      "disciplineId": "SSC0140",
+      "disciplineName": "Sistemas Operacionais I",
+      "credits": 6,
+      "creditsInHours": 120,
+      "goals": "Introduzir o estudante nos conceitos e princípios básicos dos sistemas operacionais de computadores digitais",
+      "description": "Histórico e evolução, tipos de sistemas operacionais, serviços do sistema operacional, estrutura de um sistema operacional, processos, comunicação entre processos, problemas clássicos, escalonamento. Princípios de entrada/saída, aspectos de hardware, aspectos de software, deadlocks.  Gerenciamento de memória, princípios básicos, paginação, multiprogramação, memória virtual, algoritmos para troca de páginas, cache, algoritmos para manipulação de cache. Sistema de arquivos, visão do usuário, diretrizes para projeto, aspectos de confiabilidade, segurança e desempenho: servidores de arquivos.",
+      "bibliography": "Silberschatz, A., Galvin, P.B., Gagne, G., Fundamentos de Sistemas Operacionais, traduação Aldir Coelho Corrêa da Silva., 8ª Edição, 2011, LTC."
+    },
+    {
+      "disciplineId": "SCC0219",
+      "disciplineName": "Introdução ao Desenvolvimento Web",
+      "credits": 5,
+      "creditsInHours": 90,
+      "goals": "Introduzir conhecimentos sobre desenvolvimento de aplicações Web envolvendo programação e manipulação de Bancos de Dados.",
+      "description": "Histórico sobre desenvolvimento de aplicações para Web, terminologia e problemas. Infra-estrutura utilizada no desenvolvimento de aplicações Web: requisições HTTP, comunicação, linguagens de marcação (HTML, CSS, etc), processamento no lado do cliente (Javascript, DOM, etc.), processamento no lado do servidor (frameworks e linguagens para Web ), manipulação de Banco de Dados (SQL e NoSQL). Desenvolvimento de exemplos a fim de facilitar a compreensão de conceitos básicos.",
+      "bibliography": "Nicholas Zakas, Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers 1st. No Starch Press. 2016."
+    },
+    {
+      "disciplineId": "SCC0240",
+      "disciplineName": "Base de Dados",
+      "credits": 6,
+      "creditsInHours": 120,
+      "goals": "Objetivos: Fornecer conceitos, técnicas e características básicas dos Sistemas Gerenciadores de Bases de Dados, tornando o aluno capaz de desenvolver sistemas de informação centrados na busca de informações armazenadas em bases de dados.",
+      "description": "Introdução a bases de dados e Sistemas Gerenciadores de Bases de Dados: conceitos fundamentais, bases de dados relacionais e não-relacionais, arquitetura de sistemas de bases de dados. Modelagem de dados utilizando o Modelo Entidade-Relacionamento. Modelo Relacional: conceitos, álgebra relacional e normalização. Introdução a SQL: comandos de definição de dados e de manipulação de dados. Introdução ao processamento de transações: conceitos e teoria. Aspectos de implementação dos sistemas gerenciadores de bases de dados.",
+      "bibliography": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan. Sistema de banco de dados. Editora GEN LTC, 2020."
+    },
+    {
+      "disciplineId": "SME0104",
+      "disciplineName": "Cálculo Numérico",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Familiarização do aluno com as técnicas computacionais da Álgebra Linear, da Álgebra e da Análise Matemática, através do estudo de métodos numéricos, com uso intensivo de computadores digitais.",
+      "description": "Representação de números no computador. Erros em métodos numéricos. Soluções de equações: métodos iterativos de Newton, Secantes. Soluções de equações e sistemas de equações não-lineares: método iterativo linear, método de Newton. Soluções de equações lineares: métodos exatos - LU, eliminação de Gauss – e iterativos - Gauss-Seidel, Jacobi-Richardson. Determinação numérica de auto-valores e auto-vetores: métodos das potências e Jacobi. Análise de Componentes Principais, Decomposição em Valores Singulares e aplicações. Aproximação de funções: método dos mínimos quadrados. Interpolação Polinomial de Lagrange e Bezier e B-splines e Interplação por Base Radial.",
+      "bibliography": "BURDEN, R. L., FAIRES, J. D., Análise Numérica , Thompson – 2003."
+    },
+    {
+      "disciplineId": "SME0121",
+      "disciplineName": "Processos Estocásticos",
+      "credits": 4,
+      "creditsInHours": 60,
+      "goals": "Fornecer ao aluno base teórica em Processos Estocásticos para que possa apreciar suas aplicações, principalmente voltadas às áreas de Redes de Computadores, análise de Sistemas, etc, com consistência e incluindo métodos de Simulação Estocásticas.",
+      "description": "Introdução. Processos Estocásticos homogêneos. Processos de Poisson, Cadeias de Markov a parâmetro discreto e a parâmetro contínuo: definições, propriedades, distribuições de equilíbrio. Exemplos e aplicações. Processos de Nascimento e Morte a parâmetro discreto e contínuo e aplicações. Introdução a Teoria de Filas. Filas Gerais M/M/c/K, c 1, K. Introdução à Simulação Estocástica, análise estocástica de resultados de simulação.",
+      "bibliography": "Karlin, Samuel; Taylor, Howard E., An Introduction to Stochastic Modeling, 3th Edition, Academic Press, , 1998"
+    },
+    {
+      "disciplineId": "SSC0130",
+      "disciplineName": "Engenharia de Software",
+      "credits": 5,
+      "creditsInHours": 90,
+      "goals": "Oferecer uma visão geral do processo de desenvolvimento de software e dos métodos e técnicas que podem ser utilizadas em cada fase do ciclo de vida do software.",
+      "description": "Introdução e objetivos da Engenharia de Software. Processo de Desenvolvimento de Software. Modelos de Processo: do linear aos interativos e ágeis. Métodos e Técnicas de Análise e Especificação de Requisitos: características, problemas, conceitos básicos.  Visão Geral das Fases de Análise e Projeto de Software. Gerenciamento de Projetos de Software: planejamento, métricas e estimativas. Gerenciamento de Configuração de Software. Qualidade de Software: qualidade de produto e de processo. Métodos e Técnicas para Verificação e Validação de Software: inspeção e teste. Manutenção de Software.",
+      "bibliography": "LARMAN, CRAIG - Utilizando UML e Padrões, 1a edição: 1999(inglês), 2000(português), 2003 (2. edição) e 2004 (português 2. edição)."
+    },
+    {
+      "disciplineId": "SSC0142",
+      "disciplineName": "Redes de Computadores",
+      "credits": 6,
+      "creditsInHours": 120,
+      "goals": "Apresentar os conceitos básicos em comunicação, redes de computadores e a internet.",
+      "description": "1 - Introdução: Estrutura das redes, núcleo e acesso; perdas e atrasos em pacotes; camadas de protocolos; modelos de serviços. 2 – Camada de aplicação: modelos cliente-servidor e P2P; protocolos de aplicação: http, ftp, smtp, etc; implementação de protocolos; 3 – Camada de transporte: multiplexação, controle de fluxo, controle de congestionamento; TCP; UDP; 4 – Camada de rede: redes baseadas em circuitos virtuais e em datagramas; IPv4; IPv6; ICMP; roteamento; 5 – Camada de Link de Dados: deteção e correção de erros; compartilhamento de canais; endereçamento; controle de fluxo.",
+      "bibliography": "TANENBAUM, ANDREW S., Redes de Computadores, 4ª Edição, Editora Campus, 2003."
+    },
+    {
+      "disciplineId": "SCC0205",
+      "disciplineName": "Teoria da Computação e Linguagens Formais",
+      "credits": 6,
+      "creditsInHours": 120,
+      "goals": "Dar ao aluno noção formal de algoritmo, computabilidade e do problema de decisão, de modo a deixá-lo consciente das limitações da ciência da computação. Aparelhá-lo com as ferramentas de modo a habilitá-lo a melhor enfrentar a solução de problemas com o auxílio do computador. Dar subsídios para o aluno poder definir linguagens de programação, isto é, sua sintaxe e semântica, através do estudo das gramáticas formais.",
+      "description": "Linguagens Regulares: Autômatos finitos determinísticos e não-determinísticos; expressões regulares; técnicas para identificar e descrever linguagens regulares; técnicas para mostrar que uma linguagem não é regular; propriedades de tais linguagens. Linguagens Livres de Contexto: Gramáticas Livres de Contexto; derivações; árvores de derivação; ambigüidade; autômatos de pilha; propriedades de tais linguagens; técnicas para mostrar que uma linguagem não é livre de contexto. Linguagens Sensíveis ao Contexto e Linguagens Recursivamente Enumeráveis: Máquinas de Turing; definições básicas e sua relação com a noção de um algoritmo/programa. Poder das Máquinas de Turing e Tese de Church-Turing. Indecibilidade: Máquinas de Turing Universais; Limitações sobre a nossa habilidade de computar; problemas indecidíveis. Teoria de Complexidade: Complexidade de Tempo, Complexidade de Espaço, Intratabilidade.",
+      "bibliography": "John E. HOPCROFT, Jeffrey D. ULLMA, Rajeev MOTWANI. Introdução à teoria de autômatos, linguagens e computação."
+    },
+    {
+      "disciplineId": "SCC0207",
+      "disciplineName": "Computadores e Sociedade I",
+      "credits": 2,
+      "creditsInHours": 30,
+      "goals": "Conscientizar os estudantes de alguns dos problemas que surgem, para o indivíduo e sociedade, com a introdução dos computadores digitais. Espera-se, ainda, que o curso ajude os estudantes a tomarem ciência de suas futuras responsabilidades como profissionais em computação.",
+      "description": "A Abrangência da Ética em Computação, A Importância do Raciocínio na Tomada de Decisões Éticas; CÓDIGOS DE ÉTICA PROFISSIONAIS.   O Código de Ética da ACM, O Código de Ética Unificado IEEE-CS/ACM para Engenharia de Software, Um Método para Tomada de Decisão em Situações Éticas. ACESSO NÃO AUTORIZADO: o que é considerado hacking?, tipos de invasões, as motivações dos hackers; PROPRIEDADE INTELECTUAL: a importância da proteção à propriedade intelectual , a propriedade intelectual e os códigos de ética da ACM e unificado , direito autoral, patente, segredos de negócio , engenharia reversa , novas tecnologias associadas ao direito autoral ; A ÉTICA NA INTERNET: liberdade de informação na internet, mensagens eletrônicas , habeas-data e privacidade , outras formas de privacidade relacionadas com a internet, privacidade nas telecomunicações - criptografia ; Sistemas Críticos com Relação à Segurança; Denúncia; Doenças Profissionais na Área de Computação; Gerenciamento da Carreira Profissional.",
+      "bibliography": "MASIERO, P. C - Ética em Computação, Editora da USP,  2000."
+    },
+    {
+      "disciplineId": "SCC0230",
+      "disciplineName": "Inteligência Artificial",
+      "credits": 5,
+      "creditsInHours": 90,
+      "goals": "Apresentar ao aluno as idéias fundamentais da Inteligência Artificial e algumas características relacionadas à implementação desse tipo de sistemas.",
+      "description": "História da Inteligência Artificial (IA). Caracterização dos problemas de IA e aplicações (por exemplo, em processamento de linguagem natural, mineração de dados e robótica). Introdução à programação lógica e seu uso em IA. Métodos de busca para resolução de problemas: busca cega e informada, busca com adversários. Formalismos de representação de conhecimento e inferência: lógica, redes semânticas, frames, scripts e regras de produção. Sistemas baseados em conhecimento. Noções gerais de aprendizado de máquina. Introdução a algumas técnicas relevantes de aprendizado, como árvores de decisão, naive-bayes, redes neurais, algoritmos genéticos e k-means. Ética e impactos da IA.",
+      "bibliography": "RUSSEL, S.; NORVIG, P. Artificial Intelligence: A Modern Approach. Prentice Hall, 2009 (3ª edição)."
+    },
+    {
+      "disciplineId": "SME0110",
+      "disciplineName": "Programação Matemática",
+      "credits": 6,
+      "creditsInHours": 120,
+      "goals": "Capacitar o aluno a perceber, formular e resolver problemas de otimização linear com variáveis contínuas e inteiras.",
+      "description": "Definição de problemas de programação matemática. Introdução a modelagem de problemas de otimização linear com variáveis contínuas. Representação gráfica e solução gráfica de problemas de otimização linear com variáveis contínuas. Teoria da programação linear. Pontos extremos, vértices e soluções viáveis básicas. Degenerescência. O método simplex: condições de otimalidade e desenvolvimento. Encontrando uma solução viável básica inicial. Ciclagem. Aplicações de otimização com variáveis inteira, tipos de problemas e construção de modelos. Introdução a relaxação de modelos: Relaxação Linear; Lagrangiana e Combinatória. Método Branch-and-Bound. Princípio do método de Planos de Cortes e pré-processamento. Introdução a métodos heurísticos: heurísticas, metaheurísticas e matheurísticas. Heurísticas construtivas. Métodos de busca local: descida e máxima descida.",
+      "bibliography": "ARENALES, M; ARMENTANO, V; MORABITO, R.; YANASSE, H. Pesquisa operacional - Ed. Campus, 2007."
+    },
+    {
+      "disciplineId": "SSC0903",
+      "disciplineName": "Computação de Alto Desempenho",
+      "credits": 5,
+      "creditsInHours": 90,
+      "goals": "Transmitir aos alunos conceitos sobre computação de alto desempenho, considerando seus aspectos de hardware e software, com vistas ao desenvolvimento de aplicações paralelas.",
+      "description": "Introdução à computação paralela: contexto e conceitos básicos. Hardware paralelo para computação de alto desempenho: arquiteturas paralelas, organizações de hardware que impactam o desempenho (processadores,  memórias e redes de interconexão). Projeto de software para computação de alto desempenho: modelos de programação para aplicações paralelas, ferramentas para o desenvolvimento de aplicações paralelas (compiladores, bibliotecas e padrões), escalonamento de processos. Desenvolvimento de aplicações paralelas: estudos de caso. Avaliação de desempenho de sistemas computacionais de alto desempenho: métricas e metodologias. Teste de programas paralelos: conceitos, técnicas e ferramentas para o teste de programas paralelos.",
+      "bibliography": "RAUBER, T.; RÜNGER, G. Parallel programming: for multicore and cluster systems. Springer, 2010. ISBN-10: 364204817X ou ISBN-13: 978-3642048173."
+    },
+    {
+      "disciplineId": "SCC0217",
+      "disciplineName": "Linguagens de Programação e Compiladores",
+      "credits": 6,
+      "creditsInHours": 120,
+      "goals": "Dar ao aluno as noções básicas sobre linguagens de programação e técnicas de construção de compiladores para linguagens de programação de alto nível.",
+      "description": "Introdução às linguagens de programação - evolução das linguagens, paradigmas, estruturas de programação, tipos de dados, níveis de descrição das linguagens. Conceitos básicos de compilação - compiladores e programas correlatos (interpretadores, pré-processadores, carregadores, etc.), compilação em um e em vários passos, tipos de compiladores (cruzado, auto-compilável, etc). Análise léxica. Análise sintática ascendente e descendente. Análise semântica e tabela de símbolos. Tratamento de erros léxicos, sintáticos e semânticos. Noções de geração de código intermediário e otimização. Geração de código objeto. Definição de uma linguagem e implementação de um compilador para uma máquina hipotética.",
+      "bibliography": "AHO, A.V.; SETHI, R. and ULLMAN, J.D. Compilers, Principles, Techniques, and Tools, Addison-Wesley Pub. Company, 1986."
+    },
+    {
+      "disciplineId": "SCC0250",
+      "disciplineName": "Computação Gráfica",
+      "credits": 5,
+      "creditsInHours": 90,
+      "goals": "Fornecer ao aluno familiarização com a computação gráfica, bem como conhecimento e prática dos conceitos básicos e aplicações.",
+      "description": "Origem e objetivos da Computação Gráfica. Dispositivos Vetoriais x Matriciais. Dispositivos de entrada e saída. Sistemas e equipamentos gráficos. Algoritmos para conversão matricial e preenchimento de primitivas gráficas. Transformações geométricas em duas e três dimensões; coordenadas homogêneas e matrizes de transformação. Transformação entre sistemas de coordenadas 2D e recorte. Transformações de projeção paralela e perspectiva; câmera virtual; transformação entre sistemas de coordenadas 3D. Definição de objetos e cenas tridimensionais: modelos poliedrais e malhas de polígonos. O Processo de Rendering: fontes de luz; remoção de linhas e superfícies ocultas; modelos de iluminação e de tonalização (shading): Flat, Gouraud e Phong. Aplicação de Texturas. O problema do serrilhado (aliasing) e técnicas de anti-serrilhado (antialiasing).",
+      "bibliography": "Shirley, P. Ashikhmin, Michael. Fundamentals of computer graphics. 2nd ed. Wellesley, Mass, AK Peters, 2005, 623 p."
+    },
+    {
+      "disciplineId": "SSC0120",
+      "disciplineName": "Sistemas de Informação",
+      "credits": 3,
+      "creditsInHours": 60,
+      "goals": "Dar ao estudante a compreensão do relacionamento existente entre os componentes técnicos de um Sistema de Informação e a Tecnologia de Informação com a estrutura, funções e políticas da Organização. Este curso objetiva colocar os sistemas de informação e a tecnologia de informação no contexto das organizações.",
+      "description": "Fundamentos Organizacionais de Sistemas de Informação; O Papel Estratégico dos Sistemas de Informação; Sistemas de Informação e Organizações; Informação, Administração e Tomada de Decisão; Sistemas que Utilizam Trabalho com Conhecimento e Informação (Information and Knowledge Work Systems); Melhoria da Tomada de Decisão Administrativa: Sistemas de Apoio à Decisão (DSS), Sistemas de Apoio à Decisão em Grupo(GDSS) e Sistemas de Apoio Executivo (ESS).",
+      "bibliography": "LAUDON, K. C., LAUDON, J. P., Sistemas de Informação Gerenciais, Prentice Hall, 7ª edição, 2009;"
+    },
+    {
+      "disciplineId": "SSC0900",
+      "disciplineName": "Engenharia de Segurança",
+      "credits": 3,
+      "creditsInHours": 60,
+      "goals": "Familiarizar o aluno com conceitos básicos de segurança computacional e algoritmos criptográficos. Devem ser tratados aspectos práticos.",
+      "description": "Conceitos: ameaças, ataques, e recursos; princípios e estratégias de segurança; hacking ético. Criptografia: codificação simétrica para confidencialidade; autenticação de mensagens; codificação com chaves assimétricas; esteganografia. Autenticação: princípios de autenticação de usuários; palavras-chave, tokens, biometria; autenticação remota. Controle de acesso: usuários, objetos, e direitos de acesso; conjunto de direitos de acesso (papeis); controle baseado em atributos de acesso; identidade, credencial, e controle de acesso. Segurança em bancos de dados: ataques por SQL (injection); controle de acesso; criptografia em bancos de dados; inferência sobre dados; segurança em computação de nuvem. Software malicioso: tipos; ameaças persistentes; vírus, worms, spam, trojan, keyloggers, phishing, spyware, backdoors, entre outros; contra-ataque. Ataque por recusa de serviço: flooding, ataques distribuídos, mecanismos de defesa e de resposta. Firewalls: características e políticas de acesso; tipos; configuração. Governança da Internet: definições e esclarecimentos sobre governança da internet. Estudos de caso realizados em aulas práticas",
+      "bibliography": "STALLINGS, W. Criptografia e Segurança de Redes, 4a. edição – Prentice Hall."
+    },
+    {
+      "disciplineId": "SSC0904",
+      "disciplineName": "Sistemas Computacionais Distribuídos",
+      "credits": 3,
+      "creditsInHours": 60,
+      "goals": "Introduzir os fundamentos de sistemas computacionais distribuídos e suas técnicas de implementação. Aplicar os fundamentos e as técnicas de sistemas computacionais distribuídos em estudos de caso.",
+      "description": "Evolução histórica e introdução aos conceitos básicos; Modelos arquiteturais: cliente-servidor, peer-to-peer, ad-hoc e outros; Modelos de comunicação e coordenação: memória compartilhada e distribuída; Projetos de aplicações distribuídas: metodologias de projeto e desenvolvimento de aplicações distribuídas. Definição e características dos componentes de um sistema distribuído: front-ends, back-ends, brokers. Uso de banco de dados distribuídos como suporte a aplicações distribuídas; Plataformas para o desenvolvimento de aplicações distribuídas; Estudos de caso, tais como: sistemas de arquivos distribuídos, servidores de aplicação distribuídos, uso de grande volumes de dados abertos coletados de servidores governamentais, problemas relacionados à comunicação e sincronismo das aplicações distribuídas.",
+      "bibliography": "COULOURIS, G.; DOLLIMORE, J.; KINDBERG, T. Gordon B. Distributed Systems: Concepts and Design, Addison-Wesley, Hardcover, 5th edition, Published May 2013, 1067 pages, ISBN 0132143011 "
+    },
+    {
+      "disciplineId": "SCC0291",
+      "disciplineName": "Estágio Supervisionado",
+      "credits": 14,
+      "creditsInHours": 360,
+      "goals": "Para os alunos que optarem por um estágio em uma empresa, o objeto desta disciplina é permitir que o aluno se familiarize com o ambiente onde deverá exercer sua profissão. Além disso, dar-lhe uma visão mais abrangente da área e a possibilidade de trabalhar junto a uma equipe desenvolvendo um projeto real da prática profissional.",
+      "description": "Para os alunos que optarem por um estágio em uma empresa, realização de projeto em firma conveniada ou aprovada pelo ICMC, sob supervisão do professor responsável pela disciplina e engajado em algum projeto na empresa, sob a responsabilidade de um supervisor na empresa. Ao final deve se executar uma monografia pormenorizada do projeto.",
+      "bibliography": "Livros, Manuais e Artigos ligados à área em que o estágio será desenvolvido."
+    }
+  ],
+  "professors": [
+    {
+      "professorId": "ICMC99001",
+      "professorName": "Éder Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "éder.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99002",
+      "professorName": "Rosário Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "rosário.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99003",
+      "professorName": "Igor Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "igor.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99004",
+      "professorName": "Samuel Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "samuel.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99005",
+      "professorName": "Alberto Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "alberto.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99006",
+      "professorName": "Delia Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "delia.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99007",
+      "professorName": "Edna Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "edna.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99008",
+      "professorName": "Guilherme Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "guilherme.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99009",
+      "professorName": "Suéli Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "suéli.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99010",
+      "professorName": "Iasmin Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "iasmin.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99011",
+      "professorName": "Amina Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "amina.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99012",
+      "professorName": "Camila Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "camila.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99013",
+      "professorName": "Élton Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "élton.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99014",
+      "professorName": "Edgar Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "edgar.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99015",
+      "professorName": "Francis Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "francis.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99016",
+      "professorName": "Lina Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "lina.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99017",
+      "professorName": "Ming Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "ming.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99018",
+      "professorName": "Hadassa Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "hadassa.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99019",
+      "professorName": "Haniela Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "haniela.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99020",
+      "professorName": "Sehajpreet Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "sehajpreet.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99021",
+      "professorName": "Hélder Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "hélder.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99022",
+      "professorName": "Fabian Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "fabian.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99023",
+      "professorName": "Gusttavo Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "gusttavo.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99024",
+      "professorName": "Daiana Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "daiana.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99025",
+      "professorName": "Stefania Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "stefania.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99026",
+      "professorName": "Alissa Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "alissa.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99027",
+      "professorName": "Júlio Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "júlio.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99028",
+      "professorName": "Ária Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "ária.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99029",
+      "professorName": "Melany Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "melany.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99030",
+      "professorName": "Claúdio Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "claúdio.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99031",
+      "professorName": "Suzi Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "suzi.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99032",
+      "professorName": "Maia Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "maia.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99033",
+      "professorName": "Teresinha Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "teresinha.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99034",
+      "professorName": "Elói Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "elói.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99035",
+      "professorName": "Liana Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "liana.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99036",
+      "professorName": "Agatha Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "agatha.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99037",
+      "professorName": "Abel Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "abel.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99038",
+      "professorName": "Bartolomeu Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "bartolomeu.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99039",
+      "professorName": "Manha Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "manha.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99040",
+      "professorName": "Josefa Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "josefa.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99041",
+      "professorName": "Carminho Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "carminho.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99042",
+      "professorName": "Esmeralda Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "esmeralda.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99043",
+      "professorName": "Samir Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "samir.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99044",
+      "professorName": "Maksim Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "maksim.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99045",
+      "professorName": "Graça Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "graça.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99046",
+      "professorName": "Irene Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "irene.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    },
+    {
+      "professorId": "ICMC99047",
+      "professorName": "Natanael Silva",
+      "professorBirthdate": "1990-04-14",
+      "professorSalary": 79000,
+      "professorEmail": "natanael.silva@unitube.br",
+      "professorPhone": "+55 16 9337-7718",
+      "relatedDisciplines": ""
+    }
+  ],
+  "students": [
+    {
+      "studentId": "3257291",
+      "studentName": "Félix Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.77" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Ayani Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.05" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Maísa Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.90" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Jeremias Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.84" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Georgi Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.44" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Ananda Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.48" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Francisca Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.85" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Kevin Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "4.76" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Polina Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.24" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Luena Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.22" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Irís Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.35" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Emily Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.47" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Maximiano Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.22" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Daiana Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "4.10" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Helena Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.91" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Ivo Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.59" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Cleide Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.75" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Russell Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.06" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Eder Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.58" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Jonata Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.10" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Alba Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.66" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Christian Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.48" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Dayra Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.31" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Augusto Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.43" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Marwa Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.71" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Esmeralda Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.80" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Nádia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.48" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Suzana Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.25" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Jussara Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.58" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Helder Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.89" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Fábio Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.02" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Cássia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.09" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Cloé Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.47" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Mikael Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.26" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Brayan Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.29" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Eduardo Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.85" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Kévin Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.30" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Nídia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.84" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "George Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.93" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Shaira Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.33" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Oziel Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.34" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Kael Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.01" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Sebastian Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.62" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Janaína Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.47" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Finn Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.72" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Dalila Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.94" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Vânia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.64" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Catarina Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "4.81" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Ariel Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.21" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Keven Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.16" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Estefany Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.76" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Isabelly Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.11" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Natália Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.67" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Dominic Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.79" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Iriana Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.21" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Luiza Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.84" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Samira Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.35" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Lourenço Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.90" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Melinda Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.66" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Kayden Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.68" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Selma Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.85" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Victor Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.03" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Sílvia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.02" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Thomas Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.41" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Aurea Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.78" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Ângelo Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.95" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Axel Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.32" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Lia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.90" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Debora Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.80" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Penélope Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.80" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Jadir Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.47" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Filip Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "4.66" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Lyah Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "4.41" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Timur Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.26" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Lavinia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.69" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Mikaela Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.73" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Louis Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.43" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Válter Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.37" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Alissa Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.41" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Geovanna Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.84" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Giovanni Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.17" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Janice Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.09" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Cristina Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "8.78" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Mamadou Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.80" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Inês Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "4.85" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Haniela Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.92" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Mirian Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.61" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Inara Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "7.22" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Estêvão Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "6.59" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Elijah Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "0.98" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Martinho Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.37" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Lorena Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.31" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Ariane Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.17" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Eusébio Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.25" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Amy Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.09" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Élia Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.79" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Max Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "1.60" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Santiago Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "3.14" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Zoé Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "5.90" }],
+      "currentDisciplines": []
+    },
+    {
+      "studentId": "3257291",
+      "studentName": "Nilson Oliveira",
+      "studentBirthdate": "2000-05-18",
+      "grades": [{ "disciplineId": "", "value": "2.39" }],
+      "currentDisciplines": []
+    }
+  ]
+}
