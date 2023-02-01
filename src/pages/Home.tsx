@@ -1,13 +1,18 @@
 import { Box, Typography } from '@mui/material'
 import Container from '@mui/material/Container'
 import LocalLibraryIcon from '@mui/icons-material/LocalLibrary'
+import { useTheme } from '../context/ThemeModeContext'
 
 import universityImage from '../assets/university-high-1600.jpg'
 
 export const Home = () => {
+  const { theme } = useTheme()
+
+  const topContainer = 40
+
   return (
-    <>
-      <Container className="relative w-full h-[60vh]">
+    <Container className="relative !px-0 !mx-0 w-full !max-w-full h-screen overflow-y-auto">
+      <Container className={`relative w-full h-[${topContainer}vh]`}>
         <Box className="absolute rounded-md w-[100%] max-w-[800px] -bottom-8 left-1/2 -translate-x-1/2 shadow-2xl">
           <Box className="absolute flex flex-col border rounded-md shadow-lg bg-white p-4 items-center -top-16 left-1/2 -translate-x-1/2">
             <LocalLibraryIcon className="text-[#1976d2]" />
@@ -25,7 +30,19 @@ export const Home = () => {
           />
         </Box>
       </Container>
-      <Container className="bg-white h-[500px] !px-0 !mx-0 !max-w-full"></Container>
-    </>
+      <Container
+        className={`${theme.tertiaryColor} h-[${
+          100 - topContainer
+        }vh] !p-10 !mx-0 !max-w-full`}
+      >
+        <Typography variant="h2" className="!font-bold underline !mb-10">
+          Homepage
+        </Typography>
+        <Typography variant="body1" className="!text-xl">
+          Space: Sistema de Gerenciamento para universidades. Use o Menu lateral
+          para navegar entre as seções
+        </Typography>
+      </Container>
+    </Container>
   )
 }

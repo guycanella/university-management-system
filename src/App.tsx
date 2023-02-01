@@ -1,17 +1,23 @@
 import { Outlet } from 'react-router-dom'
 
 import { Navbar } from './components/Navbar'
+import { DataProvider } from './context/DataContext'
+import { useTheme } from './context/ThemeModeContext'
 
 import './global.css'
 
 function App() {
+  const { theme } = useTheme()
+
   return (
-    <main className="flex bg-[#F7F7F7]">
-      <Navbar />
-      <section className="outlet w-full">
-        <Outlet />
-      </section>
-    </main>
+    <DataProvider>
+      <main className={`flex ${theme.secondaryColor}`}>
+        <Navbar />
+        <section className="outlet w-full">
+          <Outlet />
+        </section>
+      </main>
+    </DataProvider>
   )
 }
 

@@ -104,12 +104,77 @@
         {
           "courseId": "ICMC0013",
           "courseName": "Bacharelado em Analista de Dados",
-          "duration": 4
+          "duration": 4,
+          "description": [
+            "O Bacharelado em Ciência de Dados visa formar um profissional capaz de “pensar com dados”. Diante da enorme quantidade de dados disponíveis atualmente, provenientes das mais variadas fontes (como web, dispositivos móveis, literaturas especializadas e sensores de todo tipo – como satélites, radares e até telescópios), essa capacidade é essencial para a produção de conhecimento novo, útil e relevante para apoio à decisão e resolução de problemas complexos da sociedade.",
+            "Há diversas frentes possíveis de atuação. Na vertente acadêmica, o aluno poderá continuar sua formação na pós-graduação (em programas de mestrado e doutorado), que busca avançar a fronteira do conhecimento para os métodos e aplicações de Ciência de Dados. Nas empresas e institutos especializados, a demanda por cientistas de dados é enorme: o aluno poderá atuar em empresas de comércio eletrônico (por exemplo, buscando entender o comportamento de segmentos de mercado, personalizar suas propagandas e melhorar suas vendas), em bancos e financeiras (para analisar perfis de clientes e serviços mais apropriados para lhes oferecer, melhores estratégias de investimento e possíveis fraudadores do sistema), na área da saúde (pela coleta e análise de dados de doenças, sintomas e tratamentos possíveis, assim como acompanhamento e previsão do comportamento de epidemias), na área jurídica (pela análise automática de leis e jurisprudências para montar argumentações jurídicas para casos novos), em questões demográficas e de ações político-sociais (pelo levantamento e análise de dados populacionais e identificação de demandas e possíveis encaminhamentos e soluções) e até mesmo na astronomia (processando os dados espaciais obtidos para identificar planetas habitáveis e outros corpos celestes de interesse), entre incontáveis outras (como meteorologia, planejamento urbano e transporte público, questões ambientais e de energia, educação, etc.)."
+          ],
+          "disciplines": [
+            {
+              "period": 1,
+              "disciplineIds": [
+                "SSS0004",
+                "SCC0221",
+                "SCC0222",
+                "SMA0353",
+                "SME0850",
+                "SSC0955"
+              ]
+            },
+            {
+              "period": 2,
+              "disciplineIds": ["SCC0223", "SMA0354", "SME0142", "SME0220"]
+            },
+            {
+              "period": 3,
+              "disciplineIds": ["SCC0204", "SCC0224", "SMA0355", "SME0221"]
+            },
+            {
+              "period": 4,
+              "disciplineIds": ["SCC0230", "SMA0180", "SME0212", "SME0820"]
+            },
+            {
+              "period": 5,
+              "disciplineIds": ["SCC0240", "SCC0270", "SCC0276", "SME0852"]
+            },
+            {
+              "period": 6,
+              "disciplineIds": ["SCC0252", "SME0808", "SME0822", "SSC0957"]
+            },
+            {
+              "period": 7,
+              "disciplineIds": ["SCC0633", "SCC0802", "SME0878"]
+            },
+            {
+              "period": 8,
+              "disciplineIds": ["SCC0291"]
+            }
+          ]
         },
         {
           "courseId": "ICMC0014",
           "courseName": "Bacharelado em Engenharia de Computação",
-          "duration": 5
+          "duration": 5,
+          "description": [
+            "O objetivo do curso de Engenharia de Computação é a formação de profissionais plenamente capacitados para exercer atividades relacionadas com áreas de interface entre engenharia elétrica e ciências da computação. Acompanhando as rápidas mudanças observadas em diversos setores da atividade econômica, são oferecidas aos alunos, por intermédio de disciplinas complementares, ênfases para o aperfeiçoamento do perfil profissional em sistemas embarcados, sistemas de comunicações e computação móvel, sistemas computacionais avançados e robótica. A proposta contempla um perfil diferenciado em relação a diversos cursos de engenharia de computação já implantados no país e faz uso da ampla experiência pedagógica, científica e tecnológica da EESC e do ICMC. ",
+            "Formando-se em Engenharia de Computação, você poderá projetar sistemas digitais, computadorizados e até robôs. Outra possibilidade é gerenciar redes de computadores em grandes empresas e dar assistência a elas, ou então, desenvolver aplicativos e também atuar no ramo de automação industrial. As áreas de atuação estão situadas na interface científica e tecnológica entre a engenharia elétrica/eletrônica e a ciência da computação. Você poderá atuar em áreas da engenharia eletrônica, computação, telecomunicações, microeletrônica, automação, tecnologia da informação, processamento de voz, som e imagem, inteligência artificial, robótica, engenharia de software, redes de computadores, sistemas computacionais distribuídos, computação paralela e de alto desempenho, banco de dados e ferramentas auxiliadas por computador. O engenheiro de computação se destaca por sua versatilidade aliada ao seu conhecimento técnico-científico: não basta conhecer bem um determinado assunto, é necessário saber transmiti-lo e saber aplicá-lo na resolução de problemas. Ele tem condições de atuar em diversos segmentos e isso força uma constante busca por atualização técnico-científica. A versatilidade da formação permite ao engenheiro de computação atuar tanto em hardware como em software, o que o torna um profissional bastante solicitado pelo mercado. O mercado, de modo geral, reconhece o valor do engenheiro de computação, o que é refletido em uma ascensão natural na carreira. "
+          ],
+          "disciplines": [
+            {
+              "period": 1,
+              "disciplineIds": [
+                "SCC0200",
+                "SCC0221",
+                "SCC0222",
+                "SMA0300",
+                "SMA0353",
+                "SSC0104",
+                "SSC0109",
+                "SSC0117",
+                "SSC0180"
+              ]
+            }
+          ]
         }
       ]
     }
@@ -202,7 +267,8 @@
       "credits": 4,
       "creditsInHours": 60,
       "goals": "Ensinar aos estudantes os conceitos básicos da Mecânica Newtoniana e os métodos da Física como ciência. Capacitá-los a formular e resolver problemas referentes ao movimento de corpos e sistemas de corpos sob ação de forças.",
-      "description": "1. Medidas e unidades; 2. Movimento em uma, duas e três dimensões; 3. Leis de Newton e suas aplicações; 4. Trabalho e energia; 5. Conservação de Energia; 6. Sistemas de Partículas e Conservação de Momento; 7. Rotação e conservação do momento angular; 8. Fluidos; 9. Oscilações e ondas: Oscilações, movimento ondulatório."
+      "description": "1. Medidas e unidades; 2. Movimento em uma, duas e três dimensões; 3. Leis de Newton e suas aplicações; 4. Trabalho e energia; 5. Conservação de Energia; 6. Sistemas de Partículas e Conservação de Momento; 7. Rotação e conservação do momento angular; 8. Fluidos; 9. Oscilações e ondas: Oscilações, movimento ondulatório.",
+      "bibliography": "P. A. Tipler - Física, Volume I, 4ª Edição."
     },
     {
       "disciplineId": "SCC0201",
